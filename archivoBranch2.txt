@@ -1,2 +1,0 @@
-Esto es un archivo de Branch1, no deberia estar en master
-Esto es un archivo de Branch1, no deberia estar en master
